@@ -40,7 +40,7 @@ const nameTrainer = useSelector(state => state.nameTrainer)
 
 return (
   <div className='pokedex__section'>
-    <img className='pokedex__section__imagen' src="../public/pokemon_header.jpg" alt="" />
+    <img className='pokedex__section__imagen' src="https://www.desktopbackground.org/download/o/2015/08/10/992848_pokemon-backgrounds-wallpapers-desktop_1024x768_h.jpg" alt="" />
     <div className='inputs_and_text'>
       <h2>Hey {nameTrainer}, explora tu Pokedex !!</h2>
       <div className='inputs'>
